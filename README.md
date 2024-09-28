@@ -1,0 +1,1 @@
+# inertia_vue_ejemplo
